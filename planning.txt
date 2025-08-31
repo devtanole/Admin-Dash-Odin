@@ -1,0 +1,7 @@
+- font awesome icons
+- side bar
+- top bar with search
+- grid + flexbox
+- flex the side, top and middle
+- grid the middle and maybe the actual sidebar content
+-
